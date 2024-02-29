@@ -4,4 +4,4 @@ You can pretty easily select any of the possible 2⁸=256 rules mentioned on the
 
 This project is also hosted on the p5.js Web Editor: https://editor.p5js.org/vertiKarl/sketches/WPBfZ4ZML
 
-![](https://media.discordapp.net/attachments/330350395409039360/1197940410937511966/image.png)
+![](https://i.imgur.com/8r2D4Gr.png)
